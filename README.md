@@ -1,6 +1,7 @@
 # Ukrainian Language Pack for Publii
 
 This repository contains the **Ukrainian translation** for [Publii](https://getpublii.com), a desktop CMS for building static websites.  
+
 It provides a full Ukrainian interface and localized date/time formatting for Publii users.
 
 ---
